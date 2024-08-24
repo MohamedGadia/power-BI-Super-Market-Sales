@@ -2,7 +2,7 @@
 
 This repository contains a Power BI project focused on analyzing supermarket sales data. The analysis aims to provide insights into various aspects of sales performance, customer demographics, product categories, and payment methods.
 
-![Sales Dashboard](https://github.com/MohamedGadia/Power-BI--Super-Market-Sales/blob/main/Dshboard.png?raw=true)
+![Sales Dashboard](https://github.com/MohamedGadia/power-BI-Super-Market_Sales/blob/main/Dshboard.png?raw=true)
 
 ## Project Overview
 
